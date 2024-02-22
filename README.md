@@ -4,7 +4,7 @@
 - About the Data
 
 # Instructions
-Below, is where we are going to use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metrics.
+Below, is where we are going to use the regression and classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metrics.
 
  We will use some of the algorithms specifically:
 - Linear Regression
