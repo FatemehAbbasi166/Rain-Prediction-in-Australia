@@ -2,11 +2,7 @@
 # Table of Contents
 - Instructions
 - About the Data
-- Importing Data
-- Data Preprocessing
-- One Hot Encoding
-- Train and Test Data Split
-- Train Logistic Regression, KNN, Decision Tree, SVM, and Linear Regression models and return their appropriate accuracy scores
+
 # Instructions
 Below, is where we are going to use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metrics.
 
